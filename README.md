@@ -3,10 +3,10 @@
 Project created for learning purposes, replicating the visual style of Netflix.
 
 ## Dependencies
-VueJS
-Pinia
-Vue-Material-Design-Icons
-Vue3-Carousel
+- VueJS
+- Pinia
+- Vue-Material-Design-Icons
+- Vue3-Carousel
 
 ## Project Setup
 
